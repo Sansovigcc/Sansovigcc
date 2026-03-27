@@ -1,6 +1,5 @@
 # Sansovi GCC
-> Building and scaling Global Capability Centres (GCCs) in India
-
+> Building and scaling high-performing Global Capability Centres (GCCs) in India
 Sansovi GCC enables global enterprises to build and scale high-performing Global Capability Centres (GCCs) in India with speed and precision.
 ## 🚀 Services Offered
 
@@ -9,6 +8,11 @@ Sansovi GCC enables global enterprises to build and scale high-performing Global
 - Workspace Solutions  
 - Talent Solutions  
 - Technology Solutions  
-- GCC Advisory Services  
+- GCC Advisory Services
+## 💡 Why Sansovi?
+
+- End-to-end GCC setup and scaling  
+- Deep expertise in the Indian market  
+- Fast, compliant, and scalable solutions   
 
 🌐 Visit us: https://sansovi.com
